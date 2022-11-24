@@ -27,7 +27,7 @@ The system shall be designed using a modular approach based on the identificatio
 * **prodotto_scalare_esercizio_7**: system able to calculate the scalar product between 2 vectors A and B of elements M, each encoded on bits N (vectors preloaded in ROM).
 
 ### Exercise 8
-* **processore_esercizio_8**: analysis of the architecture of a processor operating according to the IJVM model.
+* **processore_esercizio_8**: analysis of the architecture of a processor operating according to the IJVM (Integer JAVA Virtual Machine) model.
 
 ### Exercise 9
 * **seriale_esercizio_9**: taking advantage of the implementation provided by Digilent of a UART device design and implement in VHDL the following components UART_TAPPO, 2_UART, UART_PC.
